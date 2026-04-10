@@ -1,5 +1,5 @@
 # HORUS
-Heliocentric Orbital Resolver for Unstable Systems
+Hamiltonian Orbital Resolver for Unstable Systems
 
 <p align="center">
   <img src="utils/logo.png" alt="HORUS Orbit Visualization" width="700">
