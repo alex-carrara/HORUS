@@ -1,4 +1,4 @@
-""" Heliocentric Orbit Resolver for Unstable Systems (HORUS)
+""" Hamiltonian Orbit Resolver for Unstable Systems (HORUS)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
