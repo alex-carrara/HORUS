@@ -1,6 +1,10 @@
 # HORUS
 Heliocentric Orbital Resolver for Unstable Systems
 
+<p align="center">
+  <img src="utils/logo.png" alt="HORUS Orbit Visualization" width="700">
+</p>
+
 HORUS is a toolbox for running numerical simulations of N‑body gravitational systems.
 It uses the Discrete Element Method (DEM) and provides three solver implementations (Iterative object-by-object, NumPy vectorized, Numba-parallelized)
 Each solver supports three numerical integration methods (Symplectic Euler, Verlet leapfrog, Runge–Kutta 4th order)
